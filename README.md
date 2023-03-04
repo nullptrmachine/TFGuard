@@ -4,7 +4,7 @@ Welcome to our program's Terms of Service (ToS). By using our program, you agree
 
 1. License and Restrictions: Our program is licensed, not sold, to you for use only under the terms of this license. You are not allowed to copy, modify, distribute, sell, or transfer the program or any portion of it without our prior written consent.
 
-2. No Reverse Engineering: You are not permitted to reverse engineer, decompile, or disassemble our program, except to the extent that such activity is expressly permitted by applicable law. Any attempt to do so may result in legal action taken against you.
+2. No Reverse Engineering: You are not permitted to reverse engineer, decompile, or disassemble our program. Any attempt to do so may result in legal action taken against you.
 
 3. Consequences of Unauthorized Access: If you attempt to crack, reverse engineer, or otherwise gain unauthorized access to our program, you do so at your own risk. We will not be responsible for any damage, loss of data, or other harm that may result from such unauthorized access. You are solely responsible for any consequences that may occur, including but not limited to damage to your computer or other devices.
 
